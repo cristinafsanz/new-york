@@ -3,9 +3,9 @@ info:
   title:        "Nueva York"
   subtitle:     "Preparativos para el viaje"
   cover_image:  autumn.jpg
-  cover_image_caption: "Autumn in Karlsruhe"
+  cover_image_caption: "Otoño en Karlsruhe"
   about_image:  winter.jpg
-  about_image_caption: "Winter in Karlsruhe"
+  about_image_caption: "Invierno en Karlsruhe"
   logo:         logo.png
   
   # Social links
@@ -38,6 +38,7 @@ info:
 
 # Root URL where the site will be published
 url: http://cristinafsanz.github.io/new-york
+baseurl: "/new-york"
 
 # host 0.0.0.0 allows us to access site via sapphire.local or localhost or 127.0.0.1
 host: 0.0.0.0
