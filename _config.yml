@@ -37,7 +37,8 @@ info:
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
 # Root URL where the site will be published
-url:         http://cristinafsanz.github.io/new-york
+url: http://cristinafsanz.github.io/new-york
+baseurl: "/new-york"
 
 # host 0.0.0.0 allows us to access site via sapphire.local or localhost or 127.0.0.1
 host: 0.0.0.0
