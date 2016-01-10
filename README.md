@@ -7,9 +7,26 @@
 
     JEKYLL_ENV=production bundle exec rake site:publish
 
+## Local work
+git clone https://github.com/cristinafsanz/new-york.git
+git checkout -b gh-pages
+git pull origin gh-pages
+
+Make all necessary changes
+
+bundle exec jekyll build --save
+build exec jekyll serve
+
+git add ...
+git commit -m "..."
+git push origin gh-pages
+
+
 ## Thanks
 
-This blog was forked from https://github.com/kippt/jekyll-incorporated. Originally built for
+This blog was forked from https://github.com/willkoehler/my_blog and 
+
+The blog from Will Koehler  was forked from https://github.com/kippt/jekyll-incorporated. Originally built for
 [sendtoinc.com](https://sendtoinc.com), your workspace for sharing and organizing knowledge.
 Original template built by:
 
