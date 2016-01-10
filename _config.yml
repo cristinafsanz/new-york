@@ -1,26 +1,26 @@
 info:
   # Blog Information
-  title:        "Will Koehler"
-  subtitle:     "Independent web developer living in Columbus, OH"
-  cover_image:  short-north-columbus-oh.jpg
-  cover_image_caption: "Short North, Columbus, OH. Photo: Pineapple XVI"
-  about_image:  goodale-park-columbus-oh.jpg
-  about_image_caption: "Goodale Park, Columbus, OH. Photo: Dave K."
+  title:        "Nueva York"
+  subtitle:     "Preparativos para el viaje"
+  cover_image:  autumn.jpg
+  cover_image_caption: "Autumn in Karlsruhe"
+  about_image:  winter.jpg
+  about_image_caption: "Winter in Karlsruhe"
   logo:         logo.png
   
   # Social links
   # facebook:     sendtoinc
-  twitter:      wckoehler
-  github:       willkoehler
+  twitter:      cristinafsanz
+  github:       cristinafsanz
   # gplus:        '101183822199340201470'
   
   # Comments
   disqus:
     # Eg. "exampleblog" Set to false to disable comments
-    shortname:  koehlerblog
+    shortname: cristinafsanz-newyork
   
   # Google Analytics tracking ID. Leave blank to disable tracking
-  google-analytics-id: 'UA-54124306-1'
+  google-analytics-id: 
   
   # Sharing settings
   sharing:
@@ -37,7 +37,7 @@ info:
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
 # Root URL where the site will be published
-url:         http://willkoehler.net
+url:         http://cristinafsanz.github.io/new-york
 
 # host 0.0.0.0 allows us to access site via sapphire.local or localhost or 127.0.0.1
 host: 0.0.0.0
