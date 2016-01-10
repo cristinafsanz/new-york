@@ -24,9 +24,9 @@ Make all necessary changes
 
 ## Thanks
 
-This blog was forked from https://github.com/willkoehler/my_blog and 
+This blog was forked from https://github.com/willkoehler/my_blog 
 
-The blog from Will Koehler  was forked from https://github.com/kippt/jekyll-incorporated. Originally built for
+Will Koehler's blog was forked from https://github.com/kippt/jekyll-incorporated. Originally built for
 [sendtoinc.com](https://sendtoinc.com), your workspace for sharing and organizing knowledge.
 Original template built by:
 
