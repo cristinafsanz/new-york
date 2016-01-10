@@ -1,0 +1,9 @@
+/* Bodytext font */
+/* Font for headings */
+/* Text colors */
+.pagination {
+  overflow: hidden; }
+  .pagination .older {
+    float: left; }
+  .pagination .newer {
+    float: right; }

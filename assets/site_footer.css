@@ -1,0 +1,48 @@
+/* Bodytext font */
+/* Font for headings */
+/* Text colors */
+.site-footer {
+  padding: 5em 5em;
+  background: #F5F5F5;
+  color: #aaa;
+  font-size: 13px; }
+  .site-footer .container {
+    max-width: 694px;
+    margin: 0 auto; }
+    .site-footer .container a {
+      color: #999; }
+      .site-footer .container a:hover {
+        color: #222; }
+    .site-footer .container nav {
+      display: inline-block;
+      margin-left: .5em; }
+      .site-footer .container nav a {
+        color: #777;
+        margin: 0 0.3em; }
+    .site-footer .container .social {
+      float: right; }
+      .site-footer .container .social a:last-child {
+        margin-right: 0; }
+      .site-footer .container .social a {
+        color: #000;
+        border: 0;
+        width: 36px;
+        height: 36px;
+        border: 2px solid black;
+        display: inline-block;
+        padding: 6px 0;
+        border-radius: 42px;
+        margin: 0 1em 0em 0;
+        line-height: 0;
+        text-align: center;
+        opacity: 0.3; }
+        .site-footer .container .social a .icon-rss {
+          background-position: 1px -11px; }
+        .site-footer .container .social a .icon-twitter {
+          background-position: 1px -16px; }
+        .site-footer .container .social a .icon-facebook {
+          background-position: 0px -14px; }
+        .site-footer .container .social a .icon-github {
+          background-position: 0px -19px; }
+        .site-footer .container .social a:hover {
+          opacity: 0.9; }
