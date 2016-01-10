@@ -8,18 +8,18 @@
     JEKYLL_ENV=production bundle exec rake site:publish
 
 ## Local work
-git clone https://github.com/cristinafsanz/new-york.git
-git checkout -b gh-pages
-git pull origin gh-pages
+    git clone https://github.com/cristinafsanz/new-york.git
+    git checkout -b gh-pages
+    git pull origin gh-pages
 
 Make all necessary changes
 
-bundle exec jekyll build --save
-build exec jekyll serve
+    bundle exec jekyll build --save
+    build exec jekyll serve
 
-git add ...
-git commit -m "..."
-git push origin gh-pages
+    git add ...
+    git commit -m "..."
+    git push origin gh-pages
 
 
 ## Thanks
