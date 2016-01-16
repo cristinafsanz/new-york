@@ -15,7 +15,9 @@
 Make all necessary changes
 
     bundle exec jekyll build --save
-    build exec jekyll serve
+    bundle exec jekyll serve
+
+Check changes in http://localhost:4000/new-york/
 
     git add ...
     git commit -m "..."

@@ -3,9 +3,9 @@ info:
   title:        "Nueva York"
   subtitle:     "Preparativos para el viaje"
   cover_image:  autumn.jpg
-  cover_image_caption: "Otoño en Karlsruhe"
+  cover_image_caption: "Otoño en Karlsruhe. Foto: Cristina Fernández Sanz"
   about_image:  winter.jpg
-  about_image_caption: "Invierno en Karlsruhe"
+  about_image_caption: "Invierno en Karlsruhe. Foto: Cristina Fernández Sanz"
   logo:         logo.png
   
   # Social links
@@ -28,7 +28,7 @@ info:
     facebook:   true
     gplus:      false
     hn:         false
-    reddit:     true
+    reddit:     false
     
   # Google Fonts
   # eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
