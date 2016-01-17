@@ -17,13 +17,15 @@ author:
 
 Algunos de los sitios recomendados para comer en Nueva York:
 
+Hamburguesas y pizzas:
+
 - Shake Shak: 8th & 44th  (muy cerca de Times Sq) / en la terraza en Madison Sq Park (frente a Flatiron building). Es una cadena, hay varios restaurantes por Nueva York (en el aeropuerto también están). Sus hamburguesas muy ricas y las patatas fritas también.
 
-- J.G Melon: 3rd Ave & E 74st (Muy cerca de Central park. Zona Norte del Upper East Side). La mejor hamburguesa aquí, no se puede pagar con tarjeta y hay que ir pronto porque se llena.
+- J.G Melon: 3rd Ave & E 74st (muy cerca de Central park, zona Norte del Upper East Side). La mejor hamburguesa aquí, no se puede pagar con tarjeta y hay que ir pronto porque se llena.
 
 - P.J CLARKE'S: 3rd Ave & 55th / 4 World Financial Center (Dentro de este centro commercial detrás de WTC. Al lado del Río).
 
-- Buguer Joint: Curioso porque está en el lobby del hotel Le Parker Meridien. Detrás de una cortina roja)  6th Ave &  W 56 st (Cerca del sur de Central Park)
+- Buguer Joint: 6th Ave &  W 56 st (Cerca del sur de Central Park). Curioso porque está en el lobby del hotel Le Parker Meridien. Detrás de una cortina roja.
 
 - Junior´s: Broadway & W 45th ST. El mejor cheesecake y las hamburguesas también.
 
@@ -33,26 +35,38 @@ Algunos de los sitios recomendados para comer en Nueva York:
 
 - Rubirosa Ristorante: 235 Mulberry St (En el barrio del Soho). Pizzas muy buenos y sitio muy agradable. 
 
-- Baked by Melissa: Mini cupcakes, cadena en Nueva York. 
+- Hard Rock Cafe: 1501 Broadway (En Times Square). Muy buena la hamburguesa.
+
+- Da Gennaro: 129 Mulberry St (Little Italy). Comida muy buena.
+
+
+Dulce:
+
+- Tom's Restaurant: En Brooklyn, 782 Washington Ave. Para desayunar a la americana (gofres, tortitas, ...)
+
+- Elliens cheese: zona del Soho, la mejor tarta de queso.
+
+- Baked by Melissa: Mini cupcakes, cadena en Nueva York.
 
 - Magnolia Bakery: En 401 Bleecker St, en el Greenwich Village. La primera que abrieron, que sale en Sexo en Nueva York.
 
 - Ladurée: 864 Madison Ave. Hay galletas bicolor de chocolate, tienen todo de dulce.
 
-- Hard Rock Cafe: 1501 Broadway (En Times Square). Muy buena la hamburguesa.
 
-- Da Gennaro: 129 Mulberry St (Little Italy). Comida muy buena.
+Ruta Elvira Lindo (una propuesta de ella y su amigo Xavi en su libro "Lugares que no quiero compartir con nadie"):
 
-- Tom's Restaurant: En Brooklyn, 782 Washington Ave. Para desayunar a la americana (gofres, tortitas, ...)
+- Desayunar bagels en Murray's o en Absolute Bagels.
 
-- Julianas: En Brooklyn para comer la verdadera pizza de Nueva York.
+- Levail Bakery (Upper West) para comer las mejores galletas de la ciudad.
 
-- Elliens cheese: zona del Soho, la mejor tarta de queso.
+- Hamburguesa en Shake Shack (una de las franquicias frente al Museo de Historia Natural y en su tramo favorito de la avenida Columbus), lo peor la cola que hay que hacer. Otras opciones: hamburguesas de P.J. Clarke's (plato comedido) o de J.G. Melon (más al norte, menos frecuentada por turistas).
 
-- Carmines: italiano en el que ponen cantidades grandes.
+- Merienda: Veniero's en el Lower East Side para tomar la mejor tarta de queso de la ciudad
 
-- Elliens sturt dust: los camareros son cantantes de Broadway.
+- Bark Hot Dog, en Brooklyn: los mejores hot dogs de la ciudad. Por ej. comer un Bacon Cheddar Dog
 
-- Chipotle: franquicia de comida mexicana.
 
-- Restaurante unión square: tallarines orientales.
+Otras recomendaciones de Elvira Lindo:
+
+- Keen's: calle 36 con la Quinta, han pasado muchos personajes ilustres por allí.
+

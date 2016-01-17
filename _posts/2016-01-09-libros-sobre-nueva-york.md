@@ -1,6 +1,6 @@
 ---
 layout: post
-last-modified: '2016-01-10T12:00:00-04:00'
+last-modified: '2016-01-09T12:00:00-04:00'
 
 title: "Libros sobre Nueva York"
 cover_image: autumn.jpg

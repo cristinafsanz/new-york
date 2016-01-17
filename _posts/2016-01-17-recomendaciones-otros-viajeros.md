@@ -1,6 +1,6 @@
 ---
 layout: post
-last-modified: '2016-01-16T14:00:00-04:00'
+last-modified: '2016-01-17T14:00:00-04:00'
 
 title: "Recomendaciones de otros viajeros"
 cover_image: autumn.jpg
