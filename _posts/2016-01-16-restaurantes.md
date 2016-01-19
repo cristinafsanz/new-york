@@ -66,7 +66,120 @@ Ruta Elvira Lindo (una propuesta de ella y su amigo Xavi en su libro "Lugares qu
 - Bark Hot Dog, en Brooklyn: los mejores hot dogs de la ciudad. Por ej. comer un Bacon Cheddar Dog
 
 
-Otras recomendaciones de Elvira Lindo:
+Otras recomendaciones de Elvira Lindo (no sólo restaurantes, con direcciones):
 
-- Keen's: calle 36 con la Quinta, han pasado muchos personajes ilustres por allí.
+- Aki: 181 West 4ª Street
+
+- Absolute Bagels: 2788 Broadway
+
+- Anthropologie: 375 West Broadway
+
+- Babbo Restaurant: 110 Waverly Place
+
+- Balthazar Restaurant: 80 Spring Street
+
+- BarkHotDog: 474 Bergen Street
+
+- Barney Greengrass: 541 Amsterdam Avenue
+
+- Cafe Fiorello: 1900 Broadway
+
+- Café Loup: 105 West 13º Street
+
+- Café Odeón: 145 West Broadway
+
+- Caffe Reggio: 119 MacDougal Street
+
+- Corrado Bread & Bakery: 960 Lexington Avenue
+
+- Despaña: 408 Broome Street
+
+- Doughnut Plan: 379 Grand Street
+
+- Eisenberg's: 174 5th Avenue
+
+- Fairway: 2127 Broadway & 2328 12º Avenue
+
+- Fishs Eddy: 889 Broadway
+
+- Flor de Mayo Restaurant: 2651 Broadway / 484 Amsterdam Avenue
+
+- Four Seasons Restaurant: 99 East 52º Street
+
+- Gramercy's Tavern: 42 East 20th Street
+
+- Heruys: 2745 Broadway
+
+- Hotel Carlyle: 35 East 76º Street
+
+- J.G.Melon: 1291 3rd Avenue
+
+- Jacob Jarvits Center: 655 West 34ª Street
+
+- Keen's: 72 West 36º Street (calle 36 con la Quinta), han pasado muchos personajes ilustres por allí.
+
+- Lenox Lounge: 288 Lenox Avenue
+
+- Levain Bakery: 167 West 74ª Street
+
+- Librería Three Lives & Co: 154 West 10º Street
+
+- Live Bait: 14 East 23rd Street
+
+- Louis Armstrong House Museum: 34-56 107 Street
+
+- Macy's Brooklyn Downtown: 422 Fulton Street
+
+- Maritime Hotel: 363 West 16º Street
+
+- McNally Jackson: 52 Prince Street
+
+- Metropolitan Museum of Art: 1000 5º Avenue
+
+- Minetta Tavern: 113 MacDougal Street
+
+- Murray's: 500 Avenue of the Americas
+
+- Museo de Historia Natural: Central Park West, 79º Street
+
+- Museo de la Ciudad: 1220 5º Avenue
+
+- Museum of Modern Art (MoMA): 11 West 53rd Street
+
+- Oak Room del hotel Algonquin: 59 West 44º Street
+
+- P.J. Clarke's (Lincoln Square): 44 West 63rd Street
+
+- Pisticci Restaurant: 125 La Salle Street
+
+- Reed Rooster: 310 Lenox Avenue
+
+- Restaurant Riki: 141 East 45º Street
+
+- Saint Mary the Virgin: 145 West 46º Street
+
+- Salumeria Rosi: 283 Amstedam Avenue
+
+- Shake Shack: 366 Columbus Avenue
+
+- Silver Moon Bakery: 2740 Broadway
+
+- Smoke: 2751 Broadway
+
+- (Sushi of) Gari: 402 East 78º Street
+
+- Swifty's Restaurant: 1007 Lexington Avenue
+
+- The Original Carmine's: 2450 Broadway
+
+- Tom's restaurant; 2880 Broadway
+
+- Urban Outfitters: 2081 Broadway
+
+- Veniero's: 342 East 11º Street
+
+- Whitney Museum of Modern Art: 945 Madison Avenue
+
+- Zabar's: 2245 Broadway
+
 
