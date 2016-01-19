@@ -18,12 +18,16 @@ El apartamento lo hemos cogido en la zona del Soho, por lo que nos vendrá bien 
 
 <img src="{{ site.baseurl }}/images/zona_apartamento_pointer.jpg" class="container" alt="Zona apartamento" />
 
-Un mapa de las distintas zonas de Manhattan:
+El mapa del metro:
 
-<img src="{{ site.baseurl }}/images/zonas_Manhattan.jpg" class="container" alt="Zonas Manhattan" />
+<img src="{{ site.baseurl }}/images/metro_Manhattan.jpg" class="container" alt="Metro Manhattan" />
+
+Un mapa de Harlem a Midtown:
+
+<img src="{{ site.baseurl }}/images/norte-manhattan.jpg" class="container" alt="Harlem a Midtown" />
 
 Un mapa de Midtown a Lower Manhattan:
 
-<img src="{{ site.baseurl }}/images/midtown-lower-manhattan.jpg" class="container" alt="Midtown a Lower Manhattan" />
+<img src="{{ site.baseurl }}/images/sur-manhattan.jpg" class="container" alt="Midtown a Lower Manhattan" />
 
-Créditos: Los 3 mapas se han cogido de la guías visuales Top 10 de El País Aguilar Nueva York.
+Créditos: Los mapas se han cogido de la guías visuales Top 10 de El País Aguilar Nueva York.
