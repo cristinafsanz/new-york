@@ -36,7 +36,7 @@ layout: base
       {% if page.next.url %}
       {% assign post = page.next %}
       <section class="post_summary">
-        <h3 class="title">Publicación siguiente: <a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a></h3>
+        <h3 class="title">Publicación siguiente: <a href="{{ site.baseurl }}/{{ post.url }}" rel="prefetch">{{ post.title }}</a></h3>
         <p>{{ post.excerpt }}</p>
         <hr>
       </section>
@@ -44,7 +44,7 @@ layout: base
       {% if page.previous.url %}
       {% assign post = page.previous %}
       <section class="post_summary">
-        <h3 class="title">Publicación anterior: <a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a></h3>
+        <h3 class="title">Publicación anterior: <a href="{{ site.baseurl }}/{{ post.url }}" rel="prefetch">{{ post.title }}</a></h3>
         <p>{{ post.excerpt }}</p>
         <hr>
       </section>
